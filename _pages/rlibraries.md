@@ -3,7 +3,7 @@ permalink: /rlibraries/
 title: "R libraries"
 author_profile: false
 toc: true
-toc_label: "Reading list"
+toc_label: "R libraries"
 toc_icon: "code"
 sidebar:
   nav: "resources"
