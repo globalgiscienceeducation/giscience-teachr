@@ -9,7 +9,9 @@ main:
     url: /about/
 
 contents:
-  - title: "Reading list"
-    url: /readinglist/
-  - title: "R libraries"
-    url: /rlibraries/
+  - title: "References"
+    children:
+      - title: "Reading list"
+        url: /readinglist/
+      - title: "R libraries"
+        url: /rlibraries/

@@ -2,8 +2,9 @@
 permalink: /rlibraries/
 title: "Libraries"
 author_profile: false
-classes: wide
 toc: true
+sidebar:
+  nav: "contents"
 ---
 
 
