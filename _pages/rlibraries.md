@@ -4,7 +4,7 @@ title: "Libraries"
 author_profile: false
 toc: true
 toc_label: "Reading list"
-toc_icon: "fab fa-fw fa-r-project"
+toc_icon: "fab fa-r-project"
 sidebar:
   nav: "contents"
 ---
