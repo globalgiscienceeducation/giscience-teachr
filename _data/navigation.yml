@@ -1,17 +1,21 @@
 main:
   - title: "Blog"
     url: /posts/
-  - title: "Reading list"
+  - title: "Materials"
     url: /readinglist/
-  - title: "R libraries"
-    url: /rlibraries/
   - title: "About"
     url: /about/
 
 contents:
-  - title: "References"
+  - title: "Materials"
     children:
+      - title: "Introduction"
+        url: /materials/
+      - title: "GIScience pedagody"
+      - title: "Syllabi"
+      - title: "Courses"
       - title: "Reading list"
         url: /readinglist/
       - title: "R libraries"
         url: /rlibraries/
+      - title: "Tools"
