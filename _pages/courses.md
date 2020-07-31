@@ -1,6 +1,6 @@
 ---
 permalink: /courses/
-title: "Courses | Modules"
+title: "Courses"
 author_profile: false
 toc: true
 toc_label: "Courses"

@@ -15,7 +15,7 @@ resources:
         url: /pedagogy/
       - title: "Full syllabi"
         url: /syllabi/
-      - title: "Courses | Modules"
+      - title: "Courses | modules"
         url: /courses/
       - title: "Reading list"
         url: /readinglist/
