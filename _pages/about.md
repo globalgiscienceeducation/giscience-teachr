@@ -1,8 +1,9 @@
-# Resiliant GIScience Education in R
+---
+permalink: /about/
+title: "About"
+author_profile: false
+---
 
-A global conversation.
-
-## What is this about?
 
 The disruptions of COVID-19 will have long long-lasting effects on teaching and learning at every level. As we figure this out, one day at a time, what knowledge can we gain from each other?  How can our experiences become opportunities for rethinking and revisioning our practices and perspectives? 
 
