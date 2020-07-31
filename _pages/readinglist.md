@@ -5,6 +5,8 @@ author_profile: false
 classes: wide
 toc: true
 toc_sticky: false
+sidebar:
+  nav: "contents"
 ---
 
 

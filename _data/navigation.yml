@@ -7,3 +7,9 @@ main:
     url: /rlibraries/
   - title: "About"
     url: /about/
+
+contents:
+  - title: "Reading list"
+    url: /readinglist/
+  - title: "R libraries"
+    url: /rlibraries/
