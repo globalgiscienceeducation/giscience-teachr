@@ -1,7 +1,9 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Libraries"
+  - title: "Reading list"
+    url: /readinglist/
+  - title: "R libraries"
     url: /rlibraries/
   - title: "About"
     url: /about/
