@@ -11,11 +11,15 @@ resources:
     children:
       - title: "Introduction"
         url: /resources/
-      - title: "GIScience pedagody"
+      - title: "GIScience pedagogy"
+        url: /pedagogy/
       - title: "Full syllabi"
+        url: /syllabi/
       - title: "Courses | Modules"
+        url: /courses/
       - title: "Reading list"
         url: /readinglist/
       - title: "R libraries"
         url: /rlibraries/
       - title: "Tools"
+        url: /tools/
