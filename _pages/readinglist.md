@@ -2,9 +2,10 @@
 permalink: /readinglist/
 title: "Reading list"
 author_profile: false
+classes: wide
+toc: true
 ---
 
-# Reading list
 
 ## Introductory
 

@@ -2,9 +2,10 @@
 permalink: /rlibraries/
 title: "Libraries"
 author_profile: false
+classes: wide
+toc: true
 ---
 
-R libraries
 
 ## Data wrangling
 
