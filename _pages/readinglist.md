@@ -3,6 +3,8 @@ permalink: /readinglist/
 title: "Reading list"
 author_profile: false
 toc: true
+toc_label: "Reading list"
+toc_icon: "book-open"
 sidebar:
   nav: "contents"
 ---

@@ -3,6 +3,8 @@ permalink: /rlibraries/
 title: "Libraries"
 author_profile: false
 toc: true
+toc_label: "Reading list"
+toc_icon: "r-project"
 sidebar:
   nav: "contents"
 ---
