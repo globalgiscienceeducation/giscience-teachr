@@ -1,5 +1,4 @@
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
-google_analytics: UA-156564651-3
 
 # Plugins
 plugins:
@@ -59,3 +58,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-156564651-3"
+    anonymize_ip: false # default
