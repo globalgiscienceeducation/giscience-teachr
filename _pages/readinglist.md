@@ -6,7 +6,7 @@ toc: true
 toc_label: "Reading list"
 toc_icon: "book-open"
 sidebar:
-  nav: "contents"
+  nav: "resources"
 ---
 
 

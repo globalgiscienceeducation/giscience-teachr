@@ -6,7 +6,7 @@ main:
   - title: "About"
     url: /about/
 
-contents:
+resources:
   - title: "Resources"
     children:
       - title: "Introduction"

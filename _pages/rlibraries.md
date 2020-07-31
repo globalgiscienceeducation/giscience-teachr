@@ -1,9 +1,12 @@
 ---
-permalink: /materials/
+permalink: /rlibraries/
 title: "R libraries"
 author_profile: false
+toc: true
+toc_label: "Reading list"
+toc_icon: "code"
 sidebar:
-  nav: "rlibraries"
+  nav: "resources"
 ---
 
 

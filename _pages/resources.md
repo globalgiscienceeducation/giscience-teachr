@@ -3,7 +3,7 @@ permalink: /resources/
 title: "Resources"
 author_profile: false
 sidebar:
-  nav: "contents"
+  nav: "resources"
 ---
 
 
