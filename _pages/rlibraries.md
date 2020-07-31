@@ -1,9 +1,9 @@
 ---
 permalink: /materials/
-title: "Materials"
+title: "R libraries"
 author_profile: false
 sidebar:
-  nav: "contents"
+  nav: "rlibraries"
 ---
 
 
